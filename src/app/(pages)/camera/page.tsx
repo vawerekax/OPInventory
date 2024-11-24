@@ -1,6 +1,5 @@
 "use client"
-import React, { useState } from "react";
-import {useZxing} from "react-zxing";
+import React from "react";
 import BarcodeScanner from "@/app/components/BarcodeScanner/page";
 
 export default function Camera() {
